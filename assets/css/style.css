@@ -344,6 +344,7 @@ body {
         -ms-transform: translateY(-10px);
             transform: translateY(-10px);
     pointer-events: none;
+    z-index: 10;
     -webkit-transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
     transition: opacity 0.3s ease, -webkit-transform 0.3s ease;
     -o-transition: opacity 0.3s ease, transform 0.3s ease;
