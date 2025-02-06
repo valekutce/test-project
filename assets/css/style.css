@@ -500,7 +500,12 @@ body {
 }
 @media (max-width: 425px) {
   .hero-column__one {
-    background-position: 27% 70px;
+    background-position: 27% 10px;
+  }
+}
+@media (max-width: 390px) {
+  .hero-column__one {
+    background-position: 35% 10px;
   }
 }
 @media (max-height: 700px) {
